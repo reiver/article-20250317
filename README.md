@@ -1,7 +1,7 @@
 # Blogging on the Fediverse with WriteFreely
 
 Platforms such as [Mastodon](https://joinmastodon.org/) and [Bluesky](https://bsky.app/) are perfect for sharing short thoughts or quick updates.
-But, what if you have more to say—something closer to the length of an article?
+But, what if you have more to say — something closer to the length of an article?
 
 That’s where [WriteFreely](https://writefreely.org/) shines.
 
